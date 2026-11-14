@@ -1,8 +1,3 @@
-# 🚗 Remote Control Car
-
-A hardware-based project that demonstrates the design and implementation of a remote-controlled car using embedded systems and wireless communication.
-
----
 
 ## 📌 Overview
 
